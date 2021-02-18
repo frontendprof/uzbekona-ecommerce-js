@@ -28,3 +28,19 @@
 3.4. Add .product-image, .product-name, .product-brand, .product-price
 3.5. Style ul.products and internal divs
 3.6. Duplicate 2 times to show 3 products
+
+4. Render Dynamic Home Page
+
+4.1. Create data.js
+4.2. Export an array of 6 products
+4.3. Create screen/HomeScreen.js
+4.4. Export HomeScreen as an object with render() method
+4.5. Implement render()
+4.6. Import data.js
+4.7. Return products mapped to lis inside the ul
+4.8. Create app.js
+4.9. Link it to index.html as module
+4.10. Set main id to main_container
+4.11. Create router() function
+4.12. Set main_container innerHTML to HomeScreen.render()
+4.13. Set window load event to router() function
