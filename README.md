@@ -16,8 +16,6 @@
 -2.1 Create style.css
 -2.2 Link it to index.html
 -2.3 Create div.grid-container
--2.4 Create index.html in frontend
--2.5 Run npm init in frontend folder
--2.6 npm install -D live-server(in dev mode)
--2.7 Add start command as live-server src --verbose
--2.8 Run npm start
+-2.4 Create header, main and footer sections
+-2.5 Style html, body
+-2.6 Style grid-container, header, main, footer
