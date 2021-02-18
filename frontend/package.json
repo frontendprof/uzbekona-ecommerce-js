@@ -1,0 +1,20 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Uzbekona ecommerce with JS",
+  "main": "index.js",
+  "scripts": {
+    "start":"live-server src --verbose",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frontendprof/uzbekona-ecommerce-js.git"
+  },
+  "keywords": [
+    "\"uzbekona\"",
+    "\"ecommerce.uz\""
+  ],
+  "author": "Abdumalik Sharipov",
+  "license": "MIT"
+}
