@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "1.0.0",
   "description": "Uzbekona ecommerce with JS",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start":"live-server src --verbose",
     "test": "echo \"Error: no test specified\" && exit 1"
